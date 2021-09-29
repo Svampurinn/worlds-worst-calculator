@@ -1,1 +1,1 @@
-# worlds-worst-calculator
+https://svampurinn.github.io/worlds-worst-calculator/
